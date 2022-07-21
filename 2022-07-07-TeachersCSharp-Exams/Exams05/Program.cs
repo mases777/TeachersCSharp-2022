@@ -1,0 +1,10 @@
+﻿Console.Write("Въведете първо име на служител: ");
+string? firstName = Console.ReadLine();
+Console.Write("Въведете фамилия на служител: ");
+string? secondName = Console.ReadLine();
+Console.Write("Въведете възраст на служител: ");
+sbyte age = sbyte.Parse(Console.ReadLine());
+Console.Write("Въведете пол на служител: ");
+char gender = char.Parse(Console.ReadLine());
+Console.Write("Въведете уникален номер на служител: ");
+ulong uniqueNumber = ulong.Parse(Console.ReadLine());
