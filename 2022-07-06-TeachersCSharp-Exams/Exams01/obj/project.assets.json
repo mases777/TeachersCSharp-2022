@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\repos\\2022-07-06-TeachersCSharp-Exams\\TeachersCSharp-2022\\Exams01\\Exams01.csproj",
+      "projectUniqueName": "F:\\repos\\TeachersCSharp-2022\\2022-07-06-TeachersCSharp-Exams\\Exams01\\Exams01.csproj",
       "projectName": "Exams01",
-      "projectPath": "F:\\repos\\2022-07-06-TeachersCSharp-Exams\\TeachersCSharp-2022\\Exams01\\Exams01.csproj",
+      "projectPath": "F:\\repos\\TeachersCSharp-2022\\2022-07-06-TeachersCSharp-Exams\\Exams01\\Exams01.csproj",
       "packagesPath": "C:\\Users\\user_GN\\.nuget\\packages\\",
-      "outputPath": "F:\\repos\\2022-07-06-TeachersCSharp-Exams\\TeachersCSharp-2022\\Exams01\\obj\\",
+      "outputPath": "F:\\repos\\TeachersCSharp-2022\\2022-07-06-TeachersCSharp-Exams\\Exams01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

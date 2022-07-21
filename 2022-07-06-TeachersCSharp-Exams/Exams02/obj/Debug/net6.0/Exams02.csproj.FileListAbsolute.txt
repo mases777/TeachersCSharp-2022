@@ -1,0 +1,15 @@
+F:\repos\TeachersCSharp-2022\2022-07-06-TeachersCSharp-Exams\Exams02\bin\Debug\net6.0\Exams02.exe
+F:\repos\TeachersCSharp-2022\2022-07-06-TeachersCSharp-Exams\Exams02\bin\Debug\net6.0\Exams02.deps.json
+F:\repos\TeachersCSharp-2022\2022-07-06-TeachersCSharp-Exams\Exams02\bin\Debug\net6.0\Exams02.runtimeconfig.json
+F:\repos\TeachersCSharp-2022\2022-07-06-TeachersCSharp-Exams\Exams02\bin\Debug\net6.0\Exams02.dll
+F:\repos\TeachersCSharp-2022\2022-07-06-TeachersCSharp-Exams\Exams02\bin\Debug\net6.0\Exams02.pdb
+F:\repos\TeachersCSharp-2022\2022-07-06-TeachersCSharp-Exams\Exams02\obj\Debug\net6.0\Exams02.csproj.AssemblyReference.cache
+F:\repos\TeachersCSharp-2022\2022-07-06-TeachersCSharp-Exams\Exams02\obj\Debug\net6.0\Exams02.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\TeachersCSharp-2022\2022-07-06-TeachersCSharp-Exams\Exams02\obj\Debug\net6.0\Exams02.AssemblyInfoInputs.cache
+F:\repos\TeachersCSharp-2022\2022-07-06-TeachersCSharp-Exams\Exams02\obj\Debug\net6.0\Exams02.AssemblyInfo.cs
+F:\repos\TeachersCSharp-2022\2022-07-06-TeachersCSharp-Exams\Exams02\obj\Debug\net6.0\Exams02.csproj.CoreCompileInputs.cache
+F:\repos\TeachersCSharp-2022\2022-07-06-TeachersCSharp-Exams\Exams02\obj\Debug\net6.0\Exams02.dll
+F:\repos\TeachersCSharp-2022\2022-07-06-TeachersCSharp-Exams\Exams02\obj\Debug\net6.0\refint\Exams02.dll
+F:\repos\TeachersCSharp-2022\2022-07-06-TeachersCSharp-Exams\Exams02\obj\Debug\net6.0\Exams02.pdb
+F:\repos\TeachersCSharp-2022\2022-07-06-TeachersCSharp-Exams\Exams02\obj\Debug\net6.0\Exams02.genruntimeconfig.cache
+F:\repos\TeachersCSharp-2022\2022-07-06-TeachersCSharp-Exams\Exams02\obj\Debug\net6.0\ref\Exams02.dll
