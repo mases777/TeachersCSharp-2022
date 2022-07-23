@@ -1,0 +1,17 @@
+F:\repos\TeachersCSharp-2022\2022-07-14-TeachersCSharp-Exams\Exams03\bin\Debug\net6.0-windows\Exams03.exe
+F:\repos\TeachersCSharp-2022\2022-07-14-TeachersCSharp-Exams\Exams03\bin\Debug\net6.0-windows\Exams03.deps.json
+F:\repos\TeachersCSharp-2022\2022-07-14-TeachersCSharp-Exams\Exams03\bin\Debug\net6.0-windows\Exams03.runtimeconfig.json
+F:\repos\TeachersCSharp-2022\2022-07-14-TeachersCSharp-Exams\Exams03\bin\Debug\net6.0-windows\Exams03.dll
+F:\repos\TeachersCSharp-2022\2022-07-14-TeachersCSharp-Exams\Exams03\bin\Debug\net6.0-windows\Exams03.pdb
+F:\repos\TeachersCSharp-2022\2022-07-14-TeachersCSharp-Exams\Exams03\obj\Debug\net6.0-windows\Exams03.csproj.AssemblyReference.cache
+F:\repos\TeachersCSharp-2022\2022-07-14-TeachersCSharp-Exams\Exams03\obj\Debug\net6.0-windows\Exams03.Form1.resources
+F:\repos\TeachersCSharp-2022\2022-07-14-TeachersCSharp-Exams\Exams03\obj\Debug\net6.0-windows\Exams03.csproj.GenerateResource.cache
+F:\repos\TeachersCSharp-2022\2022-07-14-TeachersCSharp-Exams\Exams03\obj\Debug\net6.0-windows\Exams03.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\TeachersCSharp-2022\2022-07-14-TeachersCSharp-Exams\Exams03\obj\Debug\net6.0-windows\Exams03.AssemblyInfoInputs.cache
+F:\repos\TeachersCSharp-2022\2022-07-14-TeachersCSharp-Exams\Exams03\obj\Debug\net6.0-windows\Exams03.AssemblyInfo.cs
+F:\repos\TeachersCSharp-2022\2022-07-14-TeachersCSharp-Exams\Exams03\obj\Debug\net6.0-windows\Exams03.csproj.CoreCompileInputs.cache
+F:\repos\TeachersCSharp-2022\2022-07-14-TeachersCSharp-Exams\Exams03\obj\Debug\net6.0-windows\Exams03.dll
+F:\repos\TeachersCSharp-2022\2022-07-14-TeachersCSharp-Exams\Exams03\obj\Debug\net6.0-windows\refint\Exams03.dll
+F:\repos\TeachersCSharp-2022\2022-07-14-TeachersCSharp-Exams\Exams03\obj\Debug\net6.0-windows\Exams03.pdb
+F:\repos\TeachersCSharp-2022\2022-07-14-TeachersCSharp-Exams\Exams03\obj\Debug\net6.0-windows\Exams03.genruntimeconfig.cache
+F:\repos\TeachersCSharp-2022\2022-07-14-TeachersCSharp-Exams\Exams03\obj\Debug\net6.0-windows\ref\Exams03.dll
