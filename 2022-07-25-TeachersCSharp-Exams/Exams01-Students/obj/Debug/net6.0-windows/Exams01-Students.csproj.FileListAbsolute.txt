@@ -1,0 +1,17 @@
+F:\repos\TeachersCSharp-2022\2022-07-25-TeachersCSharp-Exams\Exams01-Students\bin\Debug\net6.0-windows\Exams01-Students.exe
+F:\repos\TeachersCSharp-2022\2022-07-25-TeachersCSharp-Exams\Exams01-Students\bin\Debug\net6.0-windows\Exams01-Students.deps.json
+F:\repos\TeachersCSharp-2022\2022-07-25-TeachersCSharp-Exams\Exams01-Students\bin\Debug\net6.0-windows\Exams01-Students.runtimeconfig.json
+F:\repos\TeachersCSharp-2022\2022-07-25-TeachersCSharp-Exams\Exams01-Students\bin\Debug\net6.0-windows\Exams01-Students.dll
+F:\repos\TeachersCSharp-2022\2022-07-25-TeachersCSharp-Exams\Exams01-Students\bin\Debug\net6.0-windows\Exams01-Students.pdb
+F:\repos\TeachersCSharp-2022\2022-07-25-TeachersCSharp-Exams\Exams01-Students\obj\Debug\net6.0-windows\Exams01-Students.csproj.AssemblyReference.cache
+F:\repos\TeachersCSharp-2022\2022-07-25-TeachersCSharp-Exams\Exams01-Students\obj\Debug\net6.0-windows\Exams01_Students.Form1.resources
+F:\repos\TeachersCSharp-2022\2022-07-25-TeachersCSharp-Exams\Exams01-Students\obj\Debug\net6.0-windows\Exams01-Students.csproj.GenerateResource.cache
+F:\repos\TeachersCSharp-2022\2022-07-25-TeachersCSharp-Exams\Exams01-Students\obj\Debug\net6.0-windows\Exams01-Students.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\TeachersCSharp-2022\2022-07-25-TeachersCSharp-Exams\Exams01-Students\obj\Debug\net6.0-windows\Exams01-Students.AssemblyInfoInputs.cache
+F:\repos\TeachersCSharp-2022\2022-07-25-TeachersCSharp-Exams\Exams01-Students\obj\Debug\net6.0-windows\Exams01-Students.AssemblyInfo.cs
+F:\repos\TeachersCSharp-2022\2022-07-25-TeachersCSharp-Exams\Exams01-Students\obj\Debug\net6.0-windows\Exams01-Students.csproj.CoreCompileInputs.cache
+F:\repos\TeachersCSharp-2022\2022-07-25-TeachersCSharp-Exams\Exams01-Students\obj\Debug\net6.0-windows\Exams01-Students.dll
+F:\repos\TeachersCSharp-2022\2022-07-25-TeachersCSharp-Exams\Exams01-Students\obj\Debug\net6.0-windows\refint\Exams01-Students.dll
+F:\repos\TeachersCSharp-2022\2022-07-25-TeachersCSharp-Exams\Exams01-Students\obj\Debug\net6.0-windows\Exams01-Students.pdb
+F:\repos\TeachersCSharp-2022\2022-07-25-TeachersCSharp-Exams\Exams01-Students\obj\Debug\net6.0-windows\Exams01-Students.genruntimeconfig.cache
+F:\repos\TeachersCSharp-2022\2022-07-25-TeachersCSharp-Exams\Exams01-Students\obj\Debug\net6.0-windows\ref\Exams01-Students.dll
