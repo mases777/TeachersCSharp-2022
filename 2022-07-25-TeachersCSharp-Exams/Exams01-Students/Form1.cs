@@ -54,19 +54,18 @@ namespace Exams01_Students
             r.Close();
         }
 
-        private void textBox2_Leave(object sender, EventArgs e)
-        {
-            int i = int.Parse(textBox2.Text);
-            if (i > 0 && i <= fileRows)
-                parseRec(a[i]);
-            else cleanRec();
+        //private void textBox2_Leave(object sender, EventArgs e)
+        //{
+        //    int i = int.Parse(textBox2.Text);
+        //    if (i > 0 && i <= fileRows)
+        //        parseRec(a[i]);
+        //    else cleanRec();
+        //}
 
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-            cleanRec();
-        }
+        //private void textBox2_TextChanged(object sender, EventArgs e)
+        //{
+        //    cleanRec();
+        //}
 
         private void button4_Click(object sender, EventArgs e)
         {

@@ -33,27 +33,27 @@
             this.label3 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBName = new System.Windows.Forms.TextBox();
-            this.comBBEL = new System.Windows.Forms.ComboBox();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
-            this.label12 = new System.Windows.Forms.Label();
-            this.comBMat = new System.Windows.Forms.ComboBox();
-            this.comBFiz = new System.Windows.Forms.ComboBox();
-            this.comBHim = new System.Windows.Forms.ComboBox();
-            this.comBBio = new System.Windows.Forms.ComboBox();
+            this.button4 = new System.Windows.Forms.Button();
             this.comBInf = new System.Windows.Forms.ComboBox();
+            this.comBBio = new System.Windows.Forms.ComboBox();
+            this.comBHim = new System.Windows.Forms.ComboBox();
+            this.comBFiz = new System.Windows.Forms.ComboBox();
+            this.comBMat = new System.Windows.Forms.ComboBox();
+            this.label12 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.comBBEL = new System.Windows.Forms.ComboBox();
+            this.textBName = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -122,112 +122,62 @@
             this.panel1.Size = new System.Drawing.Size(446, 298);
             this.panel1.TabIndex = 4;
             // 
-            // label4
+            // button4
             // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label4.Location = new System.Drawing.Point(13, 23);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(89, 28);
-            this.label4.TabIndex = 5;
-            this.label4.Text = "Ученик:";
+            this.button4.BackColor = System.Drawing.SystemColors.Window;
+            this.button4.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.button4.Location = new System.Drawing.Point(14, 241);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(123, 34);
+            this.button4.TabIndex = 8;
+            this.button4.Text = "Съхрани";
+            this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
-            // label5
+            // comBInf
             // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label5.Location = new System.Drawing.Point(183, 23);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(157, 28);
-            this.label5.TabIndex = 6;
-            this.label5.Text = "Номер в класа";
+            this.comBInf.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.comBInf.FormattingEnabled = true;
+            this.comBInf.Location = new System.Drawing.Point(370, 178);
+            this.comBInf.Name = "comBInf";
+            this.comBInf.Size = new System.Drawing.Size(53, 36);
+            this.comBInf.TabIndex = 20;
             // 
-            // label6
+            // comBBio
             // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label6.Location = new System.Drawing.Point(13, 71);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(55, 28);
-            this.label6.TabIndex = 7;
-            this.label6.Text = "Име";
+            this.comBBio.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.comBBio.FormattingEnabled = true;
+            this.comBBio.Location = new System.Drawing.Point(227, 178);
+            this.comBBio.Name = "comBBio";
+            this.comBBio.Size = new System.Drawing.Size(53, 36);
+            this.comBBio.TabIndex = 19;
             // 
-            // label7
+            // comBHim
             // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label7.Location = new System.Drawing.Point(13, 127);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(52, 28);
-            this.label7.TabIndex = 8;
-            this.label7.Text = "БЕЛ";
+            this.comBHim.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.comBHim.FormattingEnabled = true;
+            this.comBHim.Location = new System.Drawing.Point(84, 178);
+            this.comBHim.Name = "comBHim";
+            this.comBHim.Size = new System.Drawing.Size(53, 36);
+            this.comBHim.TabIndex = 18;
             // 
-            // textBox2
+            // comBFiz
             // 
-            this.textBox2.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox2.Location = new System.Drawing.Point(355, 23);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(68, 34);
-            this.textBox2.TabIndex = 5;
-            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
-            this.textBox2.Leave += new System.EventHandler(this.textBox2_Leave);
+            this.comBFiz.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.comBFiz.FormattingEnabled = true;
+            this.comBFiz.Location = new System.Drawing.Point(370, 127);
+            this.comBFiz.Name = "comBFiz";
+            this.comBFiz.Size = new System.Drawing.Size(53, 36);
+            this.comBFiz.TabIndex = 17;
             // 
-            // textBName
+            // comBMat
             // 
-            this.textBName.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBName.Location = new System.Drawing.Point(84, 71);
-            this.textBName.Name = "textBName";
-            this.textBName.Size = new System.Drawing.Size(339, 34);
-            this.textBName.TabIndex = 9;
-            // 
-            // comBBEL
-            // 
-            this.comBBEL.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.comBBEL.FormattingEnabled = true;
-            this.comBBEL.Location = new System.Drawing.Point(84, 127);
-            this.comBBEL.Name = "comBBEL";
-            this.comBBEL.Size = new System.Drawing.Size(53, 36);
-            this.comBBEL.TabIndex = 10;
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label8.Location = new System.Drawing.Point(163, 127);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(51, 28);
-            this.label8.TabIndex = 11;
-            this.label8.Text = "Мат";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label9.Location = new System.Drawing.Point(312, 127);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(52, 28);
-            this.label9.TabIndex = 12;
-            this.label9.Text = "Физ";
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label10.Location = new System.Drawing.Point(13, 181);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(54, 28);
-            this.label10.TabIndex = 13;
-            this.label10.Text = "Хим";
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label11.Location = new System.Drawing.Point(164, 181);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(50, 28);
-            this.label11.TabIndex = 14;
-            this.label11.Text = "Био";
+            this.comBMat.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.comBMat.FormattingEnabled = true;
+            this.comBMat.Location = new System.Drawing.Point(227, 127);
+            this.comBMat.Name = "comBMat";
+            this.comBMat.Size = new System.Drawing.Size(53, 36);
+            this.comBMat.TabIndex = 16;
             // 
             // label12
             // 
@@ -239,50 +189,110 @@
             this.label12.TabIndex = 15;
             this.label12.Text = "Инф";
             // 
-            // comBMat
+            // label11
             // 
-            this.comBMat.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.comBMat.FormattingEnabled = true;
-            this.comBMat.Location = new System.Drawing.Point(227, 127);
-            this.comBMat.Name = "comBMat";
-            this.comBMat.Size = new System.Drawing.Size(53, 36);
-            this.comBMat.TabIndex = 16;
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label11.Location = new System.Drawing.Point(164, 181);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(50, 28);
+            this.label11.TabIndex = 14;
+            this.label11.Text = "Био";
             // 
-            // comBFiz
+            // label10
             // 
-            this.comBFiz.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.comBFiz.FormattingEnabled = true;
-            this.comBFiz.Location = new System.Drawing.Point(370, 127);
-            this.comBFiz.Name = "comBFiz";
-            this.comBFiz.Size = new System.Drawing.Size(53, 36);
-            this.comBFiz.TabIndex = 17;
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label10.Location = new System.Drawing.Point(13, 181);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(54, 28);
+            this.label10.TabIndex = 13;
+            this.label10.Text = "Хим";
             // 
-            // comBHim
+            // label9
             // 
-            this.comBHim.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.comBHim.FormattingEnabled = true;
-            this.comBHim.Location = new System.Drawing.Point(84, 178);
-            this.comBHim.Name = "comBHim";
-            this.comBHim.Size = new System.Drawing.Size(53, 36);
-            this.comBHim.TabIndex = 18;
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label9.Location = new System.Drawing.Point(312, 127);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(52, 28);
+            this.label9.TabIndex = 12;
+            this.label9.Text = "Физ";
             // 
-            // comBBio
+            // label8
             // 
-            this.comBBio.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.comBBio.FormattingEnabled = true;
-            this.comBBio.Location = new System.Drawing.Point(227, 178);
-            this.comBBio.Name = "comBBio";
-            this.comBBio.Size = new System.Drawing.Size(53, 36);
-            this.comBBio.TabIndex = 19;
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label8.Location = new System.Drawing.Point(163, 127);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(51, 28);
+            this.label8.TabIndex = 11;
+            this.label8.Text = "Мат";
             // 
-            // comBInf
+            // comBBEL
             // 
-            this.comBInf.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.comBInf.FormattingEnabled = true;
-            this.comBInf.Location = new System.Drawing.Point(370, 178);
-            this.comBInf.Name = "comBInf";
-            this.comBInf.Size = new System.Drawing.Size(53, 36);
-            this.comBInf.TabIndex = 20;
+            this.comBBEL.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.comBBEL.FormattingEnabled = true;
+            this.comBBEL.Location = new System.Drawing.Point(84, 127);
+            this.comBBEL.Name = "comBBEL";
+            this.comBBEL.Size = new System.Drawing.Size(53, 36);
+            this.comBBEL.TabIndex = 10;
+            // 
+            // textBName
+            // 
+            this.textBName.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.textBName.Location = new System.Drawing.Point(84, 71);
+            this.textBName.Name = "textBName";
+            this.textBName.Size = new System.Drawing.Size(339, 34);
+            this.textBName.TabIndex = 9;
+            // 
+            // textBox2
+            // 
+            this.textBox2.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.textBox2.Location = new System.Drawing.Point(355, 23);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(68, 34);
+            this.textBox2.TabIndex = 5;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label7.Location = new System.Drawing.Point(13, 127);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(52, 28);
+            this.label7.TabIndex = 8;
+            this.label7.Text = "БЕЛ";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label6.Location = new System.Drawing.Point(13, 71);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(55, 28);
+            this.label6.TabIndex = 7;
+            this.label6.Text = "Име";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label5.Location = new System.Drawing.Point(183, 23);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(157, 28);
+            this.label5.TabIndex = 6;
+            this.label5.Text = "Номер в класа";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label4.Location = new System.Drawing.Point(13, 23);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(89, 28);
+            this.label4.TabIndex = 5;
+            this.label4.Text = "Ученик:";
             // 
             // button1
             // 
@@ -319,18 +329,6 @@
             this.button3.Text = "Запиши";
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
-            // 
-            // button4
-            // 
-            this.button4.BackColor = System.Drawing.SystemColors.Window;
-            this.button4.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button4.Location = new System.Drawing.Point(14, 241);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(123, 34);
-            this.button4.TabIndex = 8;
-            this.button4.Text = "Съхрани";
-            this.button4.UseVisualStyleBackColor = false;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // richTextBox1
             // 
